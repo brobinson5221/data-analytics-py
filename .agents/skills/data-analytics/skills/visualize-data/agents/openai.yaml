@@ -1,0 +1,6 @@
+interface:
+  display_name: "Visualize Data"
+  short_description: "Chart data and expose consequential supporting evidence"
+  default_prompt: "Use $visualize-data for useful standard charts and warranted Sources inspection."
+policy:
+  allow_implicit_invocation: true

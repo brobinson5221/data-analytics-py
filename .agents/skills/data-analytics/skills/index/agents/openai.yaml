@@ -1,0 +1,6 @@
+interface:
+  display_name: "Index"
+  short_description: "Route quantitative analysis and Data deliverables"
+  default_prompt: "Use $index to answer this quantitative question with the right Data workflow."
+policy:
+  allow_implicit_invocation: true
